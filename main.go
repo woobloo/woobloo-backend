@@ -2,10 +2,8 @@ package main
 
 import (
 	"database/sql"
-	"github.com/gragas/woobloo-frontend/config"
+	"github.com/gragas/woobloo-backend/config"
 	_ "github.com/lib/pq"
-	"html/template"
-	"io/ioutil"
 	"net/http"
 )
 
